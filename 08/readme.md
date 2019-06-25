@@ -1,4 +1,4 @@
-# Consumindo API rest dotnet core web api com Flutter
+# Consumindo API rest dotnet core web api com Flutter.
 
 Autor: Diego Garcia
 
