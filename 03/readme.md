@@ -1,4 +1,4 @@
-# Construindo Layouts com Cupertino.
+# Construindo layouts com Cupertino.
 
 Autor: David Araujo
 
