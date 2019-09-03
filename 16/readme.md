@@ -1,6 +1,6 @@
-# CI experts on Android & iOS dependency management.
+# Flutter State Management with Provider.
 
-Autor: Diego Velasquez
+Autor: Diego Velásquez
 
 
 ---

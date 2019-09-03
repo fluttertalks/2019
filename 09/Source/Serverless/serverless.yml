@@ -1,0 +1,36 @@
+service: api-serverless
+provider:
+    name: aws
+    runtime: nodejs8.10
+    memorySize: 128
+    timeout: 30
+    stage: flutter
+    region: us-east-1
+    profile: serverless
+functions:
+    users:
+        handler: handler.users
+        events:
+            - http:
+                path: users
+                method: get
+                cors: true
+            - http:
+                path: users/{id}
+                method: get
+                cors: true
+            - http:
+                path: users
+                method: post
+                cors: true
+            - http:
+                path: users
+                method: put
+                cors: true
+            - http:
+                path: users
+                method: delete
+                cors: true
+  
+plugins:
+    - serverless-offline
