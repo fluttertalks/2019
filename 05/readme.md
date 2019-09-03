@@ -1,4 +1,4 @@
-# Utilizando recursos do Android nativo com Platform Channels.
+# Entendendo de uma vez por todas Provider, BLoC e State Management
 
 Autor: André Baltieri
 
