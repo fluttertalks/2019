@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diegogarcia/Projects/TodoWebService/TodoWebService/TodoWebService.csproj": {}
+  },
+  "projects": {
+    "/Users/diegogarcia/Projects/TodoWebService/TodoWebService/TodoWebService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diegogarcia/Projects/TodoWebService/TodoWebService/TodoWebService.csproj",
+        "projectName": "TodoWebService",
+        "projectPath": "/Users/diegogarcia/Projects/TodoWebService/TodoWebService/TodoWebService.csproj",
+        "packagesPath": "/Users/diegogarcia/.nuget/packages/",
+        "outputPath": "/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/diegogarcia/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://www.myget.org/F/fluentemail/api/v3/index.json": {},
+          "https://www.myget.org/F/qrcoder/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

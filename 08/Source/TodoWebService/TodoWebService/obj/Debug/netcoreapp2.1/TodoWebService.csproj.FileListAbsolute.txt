@@ -1,0 +1,6 @@
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.csprojAssemblyReference.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.csproj.CoreCompileInputs.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.RazorAssemblyInfo.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.RazorAssemblyInfo.cs
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.AssemblyInfoInputs.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.1/TodoWebService.AssemblyInfo.cs

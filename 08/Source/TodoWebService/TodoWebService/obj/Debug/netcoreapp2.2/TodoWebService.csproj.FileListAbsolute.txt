@@ -1,0 +1,14 @@
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/bin/Debug/netcoreapp2.2/TodoWebService.deps.json
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/bin/Debug/netcoreapp2.2/TodoWebService.runtimeconfig.json
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/bin/Debug/netcoreapp2.2/TodoWebService.runtimeconfig.dev.json
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/bin/Debug/netcoreapp2.2/TodoWebService.dll
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/bin/Debug/netcoreapp2.2/TodoWebService.pdb
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.csproj.CoreCompileInputs.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.RazorAssemblyInfo.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.RazorAssemblyInfo.cs
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.AssemblyInfoInputs.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.AssemblyInfo.cs
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.RazorTargetAssemblyInfo.cache
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.dll
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.pdb
+/Users/diegogarcia/Projects/TodoWebService/TodoWebService/obj/Debug/netcoreapp2.2/TodoWebService.csprojAssemblyReference.cache

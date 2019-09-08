@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6C08F773-9E45-4546-B4DF-6C64F66A412F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoWebService/Startup.cs">
+    <Files>
+      <File FileName="TodoWebService/Models/ToDo.cs" Line="1" Column="1" />
+      <File FileName="TodoWebService/Controllers/ToDoController.cs" />
+      <File FileName="TodoWebService/Startup.cs" Line="46" Column="15" />
+      <File FileName="TodoWebService/Middlewares/APIKeyHandler.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoWebService" expanded="True">
+            <Node name="TodoWebService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TodoWebService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ToDoWebService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
